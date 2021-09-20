@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![An illustration showing Selectra's logo with some stars and circles.](./banner_top.png)
+![An illustration showing Selectra's logo with some stars and circles.](https://user-images.githubusercontent.com/2109178/134040672-bbf12f52-db0f-4c73-ab7e-e4474ba0e29c.png)
 
 ### Our mission: inform the consumer 🕵️‍♂️
 
