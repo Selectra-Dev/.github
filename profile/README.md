@@ -12,6 +12,7 @@ Here at [Selectra](https://selectra.com/), we help you find the best deals on al
 
 **Software**
 * PHP / Laravel
+* JS / React
 * Ruby / Rails
 * MySQL / PostgreSQL
 * Redis / DynamoDB
