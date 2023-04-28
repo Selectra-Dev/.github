@@ -4,11 +4,9 @@ Selectra does not have a bug bounty program open at the moment. However, if ther
 
 You can reach us at:
 1. security@selectra.info
-2. victor.bersy@selectra.info
-3. aurian@selectra.info
+2. aurian@selectra.info
 
 In case there is an issue with our selectra.info domain:
-1. victor.bersy@hey.com
-2. aurian.demaupeou@gmail.com
+1. aurian.demaupeou@gmail.com
 
 You write us in French or English.
