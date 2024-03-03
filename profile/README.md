@@ -27,10 +27,10 @@ Here at [Selectra](https://selectra.com/), we help you find the best deals on al
 
 ### Selectra in numbers 💯
 
-* 📊 100M+ website visitors in 2020
-* 📝 600k+ contracts signed in 2020
-* 📈 €63M revenue in 2020
-* 🤙 1,300 employees around the world
+* 📊 200M+ website visitors in 2023
+* 📝 1M+ contracts signed in 2023
+* 📈 €94M revenue in 2020
+* 🤙 2,200 employees around the world
 
 ### Our key values 🤗
 
@@ -61,8 +61,6 @@ Today Selectra operates in 17 countries:
   * 🇮🇹 Italy
   * 🇵🇹 Portugal
   * 🇪🇸 Spain
-  * 🇹🇷 Turkey
-  * 🇬🇧 UK
 
 **Asia Pacific**
   * 🇦🇺 Australia
@@ -72,4 +70,4 @@ Today Selectra operates in 17 countries:
 **America**
   * 🇲🇽 Mexico
   * 🇧🇷 Brazil
-  * 🇺🇸 Texas
+  * 🇵🇪 Peru
